@@ -10,7 +10,7 @@ Projeto desenvolvido para aplicação dos conceitos de Flex-box do CSS, do Bootc
  
 
 
-Veja o funcionamento da aplicação acessando [aqui]().
+Veja o funcionamento da aplicação acessando [aqui](https://janaribeirof.github.io/FlexTurismo/).
 
  ### 🛠️ Tecnologias
   <h4>
