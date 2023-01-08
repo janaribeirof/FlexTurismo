@@ -28,4 +28,4 @@ Veja o funcionamento da aplicação acessando [aqui](https://janaribeirof.github
 
 ---
 
- Made with 💜 by JANAINA RIBEIRO ✌️ [See my LinkedIn](https://www.linkedin.com/in/janaina-ribeiro-9624044b/)
+ Made with 💜 by JANAINA RIBEIRO ✌️ [See my LinkedIn](https://www.linkedin.com/in/janainaribeirotech/)
